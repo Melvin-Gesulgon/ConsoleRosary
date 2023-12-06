@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\C#\Personal-Projects\Console_Rosary\bin\Release\net8.0\Console_Rosary.exe
+C:\Users\admin\Desktop\C#\Personal-Projects\Console_Rosary\bin\Release\net8.0\Console_Rosary.deps.json
+C:\Users\admin\Desktop\C#\Personal-Projects\Console_Rosary\bin\Release\net8.0\Console_Rosary.runtimeconfig.json
+C:\Users\admin\Desktop\C#\Personal-Projects\Console_Rosary\bin\Release\net8.0\Console_Rosary.dll
+C:\Users\admin\Desktop\C#\Personal-Projects\Console_Rosary\bin\Release\net8.0\Console_Rosary.pdb
+C:\Users\admin\Desktop\C#\Personal-Projects\Console_Rosary\obj\Release\net8.0\Console_Rosary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C#\Personal-Projects\Console_Rosary\obj\Release\net8.0\Console_Rosary.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C#\Personal-Projects\Console_Rosary\obj\Release\net8.0\Console_Rosary.AssemblyInfo.cs
+C:\Users\admin\Desktop\C#\Personal-Projects\Console_Rosary\obj\Release\net8.0\Console_Rosary.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\Personal-Projects\Console_Rosary\obj\Release\net8.0\Console_Rosary.dll
+C:\Users\admin\Desktop\C#\Personal-Projects\Console_Rosary\obj\Release\net8.0\refint\Console_Rosary.dll
+C:\Users\admin\Desktop\C#\Personal-Projects\Console_Rosary\obj\Release\net8.0\Console_Rosary.pdb
+C:\Users\admin\Desktop\C#\Personal-Projects\Console_Rosary\obj\Release\net8.0\Console_Rosary.genruntimeconfig.cache
+C:\Users\admin\Desktop\C#\Personal-Projects\Console_Rosary\obj\Release\net8.0\ref\Console_Rosary.dll
