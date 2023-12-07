@@ -11,7 +11,7 @@ class Program
     {
         Console.WriteLine("THE HOLY ROSARY PRAYER GUIDE");
         Console.WriteLine("------------------------------");
-        Console.Write("A Minimalist Guide to Praying the Rosary");
+        Console.Write("A Dynamic Daily Guide to Praying the Rosary");
         Console.ReadLine();
         Console.Clear();
 

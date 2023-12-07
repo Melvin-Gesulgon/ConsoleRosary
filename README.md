@@ -1,1 +1,1 @@
-This is just a practice project I did to get my hands wet with C#. Feel free to fork, clone and/or modify to your liking.
+This is a project I did to get my hands wet with C#. Feel free to fork, clone and/or modify to your liking.
